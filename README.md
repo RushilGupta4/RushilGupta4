@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a high school student. Dont know what more I can write.
+
+---
+Languages:
+1) Python
+2) Javasrcipt (Extremely basic, mainly ReactJs)
