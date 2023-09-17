@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer and technology enthusia
 
 ## About Me
 
-- 🌐 [Visit my personal website](https://rushilgupta.tech/){:target="_blank"}
+- 🌐 [Visit my personal website](https://rushilgupta.tech/)
 - 📚 Computer Science student
 - 💼 Software Developer
 - 🚀 Love to learn and build cool stuff
