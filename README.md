@@ -1,23 +1,31 @@
-### Hi there 👋
+# Hi there, I'm Rushil Gupta 👋
 
-<!--
-**Ruzil357/Ruzil357** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer and technology enthusiast. Here you'll find some of my projects and contributions. Feel free to explore and reach out if you have any questions or want to collaborate.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 [Visit my personal website](https://rushilgupta.tech/)
+- 📚 Computer Science student
+- 💼 Software Developer
+- 🚀 Love to learn and build cool stuff
 
-I am a high school student. Dont know what more I can write.
+<!---
+## Projects
 
----
-Languages:
-1) Python
-2) Javasrcipt (Extremely basic, mainly ReactJs)
+Here are some of the projects I've worked on:
+
+- [Project 1](link-to-project-1): Brief description of Project 1.
+- [Project 2](link-to-project-2): Brief description of Project 2.
+- [Project 3](link-to-project-3): Brief description of Project 3.
+--->
+
+## Skills
+
+- 💻 Programming Languages: Python, JavaScript, TypeScript
+- 🌐 Web Development: NextJs, ReactJs, HTML, CSS
+- 📊 Data Science: TensorFlow, PyTorch, Pandas, NumPy, Matplotlib
+- 🗄️ Databases: MySQL, PostgreSQL, MongoDB
+
+## Connect with Me
+
+- 📧 Email: rushilgupta4@email.com
