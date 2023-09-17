@@ -1,10 +1,10 @@
 # Hi there, I'm Rushil Gupta 👋
 
-Welcome to my GitHub profile! I'm a passionate developer and technology enthusiast. Here you'll find some of my projects and contributions. Feel free to explore and reach out if you have any questions or want to collaborate.
+Welcome to my GitHub profile! I'm a passionate developer and technology enthusiast. Here, you'll find some of my projects and contributions. Please feel free to explore and reach out to me if you have any questions or want to collaborate.
 
 ## About Me
 
-- 🌐 [Visit my personal website](https://rushilgupta.tech/)
+- 🌐 [Visit my personal website](https://rushilgupta.tech/){:target="_blank"}
 - 📚 Computer Science student
 - 💼 Software Developer
 - 🚀 Love to learn and build cool stuff
