@@ -29,7 +29,3 @@ Here are some of the projects I've worked on:
 
 - 📧 Email: rushilgupta4@email.com
 
-<br/>
-<br/>
-
-![trophies](https://github-profile-trophy.vercel.app/?username=RushilGupta&theme=onedark&column=4&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A)
