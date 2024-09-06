@@ -20,7 +20,7 @@ Here are some of the projects I've worked on:
 
 ## Skills
 
-- 💻 Programming Languages: Python, JavaScript, TypeScript
+- 💻 Programming Languages: Python, JavaScript, TypeScript, Java, Scala, C++
 - 🌐 Web Development: NextJs, ReactJs, HTML, CSS
 - 📊 Data Science: TensorFlow, PyTorch, Pandas, NumPy, Matplotlib
 - 🗄️ Databases: MySQL, PostgreSQL, MongoDB
